@@ -1,10 +1,6 @@
 # Aetherium Client Website
 
-Most beautiful shit I've ever done :D
-
-## Todo:
-- [x] Add faq
-- [ ] Add fps comparison
+looks nice.
 
 ## Uses:
 - Viewer.js for image viewer https://fengyuanchen.github.io/viewerjs/
